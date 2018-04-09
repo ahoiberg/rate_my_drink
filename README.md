@@ -4,12 +4,12 @@ Rate My Drink is written in TypeScript and can be run by simply opening the HTML
 
 Development plan is as follows:
 
-Create individual entries (with name, rating, and comment).
-Create UI such that entries can be considered a CRUD application
+1. Create individual entries (with name, rating, and comment).
+2. Create UI such that entries can be considered a CRUD application
 
-Enable average ratings that aggregate individual ratings (e.g. rated 4.5/5 overall)
+3. Enable average ratings that aggregate individual ratings (e.g. rated 4.5/5 overall)
 
 Stretch goals:
-require users to be authenticated? 
+1. require users to be authenticated?  
     -maybe add some social network capability
-deploy to some external server
+2. deploy to some external server
